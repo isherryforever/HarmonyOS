@@ -28,7 +28,7 @@
 
 这个解答是正解，因为主机如果连接在校园网上的话，IP应该是172开头，怎么可能会和虚拟机在一个网段？
 
-所以只要能讲VMnet8改成和虚拟机同网段即可。[链接]](https://blog.csdn.net/qqxyy99/article/details/80864862)
+所以只要能讲VMnet8改成和虚拟机同网段即可。[链接](https://blog.csdn.net/qqxyy99/article/details/80864862)
 
 **感觉在虚拟机内改IP地址应该也可以。**
 
